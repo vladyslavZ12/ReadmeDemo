@@ -15,5 +15,5 @@ Just an editor and Git!
 ## Authors
 team members go here
 
-##License
+## License
 This project is licensed under the MIT license.
