@@ -7,6 +7,8 @@ This is a Node-based built that explores the last 15 years (or so) of the Marvel
 ### Getting Started
 This is a baic HTML / CSS / JavaScript build. If you don't know what any of these are, start here: www.mozilla.com 
 
+My favorite search engine is [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn).
+
 Clone this to the location of your choice, open in your favourite editor and hack away!
 
 ### Prerequisities
